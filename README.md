@@ -3,3 +3,4 @@
 ### 1. A* Algorithm
 ### 2. Simulated Annealing
 ### 3. Tabu Search
+### 4. Evolutionary Algorithms
